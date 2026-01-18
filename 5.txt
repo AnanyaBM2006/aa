@@ -1,2 +1,6 @@
+ HEAD
 to see how conflict works
 
+
+to check the conflict in 5th txt file
+ feature-branch
